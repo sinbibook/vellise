@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-29T05:48:30.830536883Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-29T05:53:59.506185882Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3d5b813-6b9d-42a3-b9ce-fd883459569a",
     "homepageId": "4124ac55-01e2-42a4-8fb4-5b493ea99814"
@@ -734,12 +734,21 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "f568c7a7-b24a-433c-a532-eadbe33dffd6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/logo/1780034024923-7v50jyue8v.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
       "title": "태안 벨리세 펜션",
-      "description": "",
+      "description": "태안의 아름다운 바다와 함께 여유로운 휴식을 즐기는 벨리세 펜션",
       "keywords": "태안펜션,태안숙소,태안여행,태안벨리세,벨리세"
     },
     "socialLinks": {
@@ -1101,7 +1110,107 @@
       },
       "property": {
         "name": "태안 벨리세 펜션",
-        "images": [ ],
+        "images": [
+          {
+            "id": "7bd71895-d817-492f-bd85-64b59d02a53a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_thumbnail/1780034024899-nu4gx7tbvy.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "1179de2c-041c-49e7-9fbe-8eb8e09e6396",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024936-q7v7uqlf4h.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c760bb9e-6afd-488b-8558-321923658186",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024921-iw2uhvhs93.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c1f0f57b-1543-4c57-9e3c-fc9de3cabb36",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024941-0fqsci7dbq.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "332f9b30-168a-4fa4-9fa9-adaba5b7b9ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024937-qv6mpc6zz5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "a1294d80-5bbb-4f5e-a2b3-17b996bc5d90",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024946-1wn9r4wt4k.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "ef08346c-11cc-450c-b888-775e827b14d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024964-xlrs7lfw58.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "a54e4770-8ab8-4217-a0cd-4658083f24ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024960-16hhndu4q3.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1c2335d3-b545-413e-af91-c318f01acf7b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024966-4szkcwa974.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "55da6a47-f9d3-45be-b8af-12774e19e21a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034025022-kmhcaj6n2k.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "11d84be7-6f45-42b7-b91b-c6f05b051826",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/4124ac55-01e2-42a4-8fb4-5b493ea99814/property_exterior/1780034024968-d3ixipfb3e.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Taean Vellise Pension"
       },
       "roomtypes": [
