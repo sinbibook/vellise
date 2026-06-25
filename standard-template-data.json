@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-06-25T03:09:30.730948806Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-06-25T03:22:07.298736681Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3d5b813-6b9d-42a3-b9ce-fd883459569a",
     "homepageId": "4124ac55-01e2-42a4-8fb4-5b493ea99814"
@@ -1262,7 +1262,7 @@
                 ]
               },
               "notice": {
-                "title": "",
+                "title": "대중교통 이용방법",
                 "description": "태안공용버스터미널 도착\n→ 안면도 방면 시내버스 이용\n→ '방포해수욕장·꽃지해수욕장' 방면 인근 정류장 하차\n→ 벨리세펜션까지 도보 또는 택시로 이동"
               }
             }
